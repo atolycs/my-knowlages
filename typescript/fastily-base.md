@@ -1,7 +1,7 @@
 # fastifyの使い方
 
 基本コード (公式より)
-** Node.js
+* Node.js
 ```javascript
 const fastify = require("fastify")({logger: true})
 
@@ -21,8 +21,7 @@ const start = async () => {
 start()
 ```
 
-
-** Typescript
+* Typescript
 ```typescript
 import fastify from ' fastify'
 
