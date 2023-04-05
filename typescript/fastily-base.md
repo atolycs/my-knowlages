@@ -39,7 +39,7 @@
 
 * Typescript
 ```typescript
-import fastify from ' fastify'
+import fastify from 'fastify'
 
 const server = fastify()
 
