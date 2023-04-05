@@ -2,7 +2,7 @@
 
 基本コード (公式より)
 * Node.js
-  * Async
+  * Async/Awaitあり
     ```javascript
     const fastify = require("fastify")({ logger: true })
 
@@ -20,7 +20,7 @@
     }
     start()
     ```
-  * Await
+  * Async/Awaitなし
     ```javascript
     const fastify = require('fastify')({ logger: true })
 
